@@ -3,8 +3,7 @@
 <suite name="Restful Booker API">
     <test verbose="2" preserve-order="true" name="RestAssuredLearn">
         <classes>
-            <class name="com.example.testng.Lab261"> </class>
-            <class name="com.example.testng.Lab262"> </class>
+            <class name="com.example.ex_CRUD.POST.Lab272"> </class>
         </classes>
     </test>
 </suite>

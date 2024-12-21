@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssuredLearn"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.525">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testNonBDDStylePOSTPositive"
+                time="1.525"
+                classname="com.example.ex_CRUD.POST.Lab272">
+            </testcase>
+</testsuite>

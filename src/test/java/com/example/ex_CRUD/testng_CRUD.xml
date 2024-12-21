@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Restful Booker API">
+    <test verbose="2" preserve-order="true" name="RestAssuredLearn">
+<!--        <classes>-->
+<!--            <class name="com.example.ex_CRUD.GET.Lab268"> </class>-->
+<!--            <class name="com.example.ex_CRUD.POST.Lab272"> </class>-->
+<!--            <class name="com.example.ex_CRUD.PUT.Lab273"> </class>-->
+<!--            <class name="com.example.ex_CRUD.PATCH.Lab274"> </class>-->
+<!--            <class name="com.example.ex_CRUD.DELETE.Lab275"> </class>-->
+<!--        </classes>-->
+
+        <packages>
+            <package name="com.example.ex_CRUD.*"></package>
+        </packages>
+    </test>
+</suite>

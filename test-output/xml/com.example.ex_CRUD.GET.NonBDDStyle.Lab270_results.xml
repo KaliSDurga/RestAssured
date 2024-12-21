@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssuredLearn"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.499">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequestNonBddStyle"
+                time="0.499"
+                classname="com.example.ex_CRUD.GET.NonBDDStyle.Lab270">
+            </testcase>
+</testsuite>

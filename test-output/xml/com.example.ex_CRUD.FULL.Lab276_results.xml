@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssuredLearn"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.047">
+    <properties></properties>
+
+
+
+            <testcase
+                name="t3"
+                time="0.047"
+                classname="com.example.ex_CRUD.FULL.Lab276">
+            </testcase>
+</testsuite>
